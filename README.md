@@ -1,5 +1,5 @@
 ## Hello everyone ✨
-I'm Blix and i love to code
+I'm BliX and i love to code
 
 Of course it doesn't mean i know how to do that properly :)
 
